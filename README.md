@@ -11,12 +11,12 @@ Página da web para listagem de filmes sendo adicionado título, data de lançam
 Pode ser adicionar, editar, verificar detalhes ou excluir um filme da lista.
 Os dados são salvos no banco de dados em sql.
 
-## Prints
+## Telas
 
-# Home
+### Home
 ![MvcMovie-home](https://user-images.githubusercontent.com/82469705/131227331-365e4076-10b0-4803-b6cb-f16ca54b05b8.jpg)
 
-# Lista de filmes
+### Lista de filmes
 ![MvcMovie-lista](https://user-images.githubusercontent.com/82469705/131227355-94aa41cd-fecd-42d8-a4ca-cf3d2c3cec6b.jpg)
 
 
